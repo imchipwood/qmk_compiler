@@ -4,7 +4,7 @@ cchardet
 dhooks
 flake8
 graphyte
-rq
+git+git://github.com/rq/rq@5b5cfdf9ab3c6997a85578d014125849bcbc9290#egg=rq
 pygments
 python-geoip-python3
 python-geoip-geolite2
